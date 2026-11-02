@@ -31,4 +31,4 @@ AVS_ALIGNMENT   = 绑定发卡行合规真实北美物理地址（Street/City/St
 BUDGET_CEILING  = 单任务硬性上限锁定（如 Task A 设 $15.00，多扣 $0.01 卡台底层直接 402 熔断）
 CONCURRENCY_TOL = 原生支持高并发微额预授权，无惧 Agent 密集验资
 LIFECYCLE_HOOK  = 自动化任务结束触发注销，未消耗资金秒级无损退回母账户，阻断二次扣划
-<img width="1983" height="793" alt="690db130b0815ce097a3bd51624a59a7" src="https://github.com/user-attachments/assets/0cfe58c3-ffc3-46bd-9abf-54a200823be5" />
+ 
